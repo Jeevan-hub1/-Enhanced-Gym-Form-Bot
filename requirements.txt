@@ -1,0 +1,38 @@
+# Core Computer Vision and AI
+opencv-python==4.8.1.78
+mediapipe==0.10.13
+
+
+# Web Framework
+streamlit==1.28.1
+
+# Audio and Text-to-Speech
+pygame==2.5.2
+pyttsx3==2.90
+gTTS==2.4.0
+
+# Data Processing
+pandas==2.0.3
+matplotlib==3.7.2
+seaborn==0.12.2
+
+# System and Threading
+
+asyncio-throttle==1.0.2
+func-timeout==4.3.5
+
+
+# Optional: Enhanced Audio Processing
+pyaudio==0.2.11
+
+# Optional: Machine Learning
+scikit-learn==1.3.2
+tensorflow==2.17.0
+
+# Development and Testing
+pytest==7.4.2
+pytest-cov==4.1.0
+setuptools 
+wheel
+numpy==1.26.4
+
